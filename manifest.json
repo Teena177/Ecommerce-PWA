@@ -1,0 +1,16 @@
+{
+    "name":"Shop Now",
+    "short_name":"ShopNow",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"#FFE9D2",
+    "theme_color":"blue",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+            "src":"/img/icons/icon1.png",
+            "type":"image/png",
+            "sizes":"72X72"
+        }
+    ]
+}
